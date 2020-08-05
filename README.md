@@ -1,3 +1,20 @@
+
+# 117
+
+
+## Future
+
+- NICT_NTPをSelf Hostingに置き換える。
+  - Unix/POSIX Time
+  - RTT
+  - うるう秒制御
+- PWA化
+- 
+
+
+-------
+original works - yuru4c/117
+
 # 117
 オンライン 117（時報・音声時計） [**` 開く `**](https://yuru4c.github.io/117/)
 
